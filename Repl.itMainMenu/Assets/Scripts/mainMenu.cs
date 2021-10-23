@@ -21,4 +21,10 @@ public class mainMenu : MonoBehaviour
     {
         start.RestartToHome();
     }
+    
+    /*public void Test()
+    {
+        Debug.Log("works");
+    }
+    */
 }
